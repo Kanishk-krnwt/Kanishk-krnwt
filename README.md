@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi there, I'm Kanishk Karnawat 👋
 
-<!--
-**Kanishk-krnwt/Kanishk-krnwt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Cloud Computing Engineer | AI Engineer | Java Developer
 
-Here are some ideas to get you started:
+🎓 B.Tech Computer Science (Cloud Computing) @ JECRC University
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💡 Passionate about Artificial Intelligence, Cloud Computing, Backend Development, and Algorithmic Trading.
+
+🚀 Currently building AI Agents using Google ADK, Ollama, Gemma, Python, Java, and Microsoft Graph API.
+
+🌱 Currently learning
+- Advanced Generative AI
+- Agentic AI
+- AWS Cloud
+- System Design
+- Backend Development
+
+📫 Reach me at:
+- Email: kanishk.23bcon1055@jecrcu.edu.in
+- LinkedIn: *(We'll add this later)*
