@@ -17,4 +17,4 @@
 
 📫 Reach me at:
 - Email: kanishk.23bcon1055@jecrcu.edu.in
-- LinkedIn: *(We'll add this later)*
+  
